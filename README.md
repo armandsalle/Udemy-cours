@@ -17,7 +17,7 @@ Projets hébérgés
 
 [**Star Shower**](http://armand-salle.fr/starshower) | **JS + canvas** | Pluie de météroites en Javascript
 
-[**Budgety**](http://armand-salle.fr/budgety) | **JS (MVC)** | Webb app pour gérer ces dépenses
+[**Budgety**](http://armand-salle.fr/budgety) | **JS (MVC)** | Webb app pour gérer ses dépenses
 
 [**Forkify**](http://armand-salle.fr/forkify) | **NodeJS + JS (MVC) + API** | Webb app de recettes et de listes de courses
 
