@@ -6,7 +6,7 @@ Projets hébérgés
 
 [**Natours**](http://armand-salle.fr/natours) | **HTML5/Sass - Grille 12 colonnes** | Home page pour une agence de voyage
 
-[**Trillo**](http://armand-salle.fr/trillo) | **HTML5/Sass - Display flex** | Page de description d'un hotel pour un comparateur de vol et d'hôtel
+[**Trillo**](http://armand-salle.fr/trillo) | **HTML5/Sass - Display flex** | Page de déscription d'un hotel pour un comparateur de vol et d'hôtel
 
 [**Nexter**](http://armand-salle.fr/nexter) | **HTML5/Sass - Display grid** | Home page pour une agence immobilière
 
