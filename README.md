@@ -24,11 +24,11 @@ Projets hébérgés
 
 ## Node.js
 
-[**Laptop Store**](http://laptop.armand.pizza) | **Http + JSON** | Référencement d'ordinateurs et de fiches produits
+[**Laptop Store**](https://laptop-store-armand.herokuapp.com/) | **Http + JSON** | Référencement d'ordinateurs et de fiches produits
 
 [**Web Server**](https://github.com/armandsalle/Udemy-cours/tree/master/Node.js%20cours/webserver) | **Express + HBS** | Fichiers pour un serveur web basique
 
-[**Chat APP**](http://chat.armand.pizza) | **Express + SocketIO** | Chat en temps réél avec un système de "room"
+[**Chat APP**](https://dry-badlands-54755.herokuapp.com/) | **Express + SocketIO** | Chat en temps réél avec un système de "room"
 
 [**TodoListe API**](https://github.com/armandsalle/Udemy-cours/tree/master/Node.js%20cours/node-todo-api) | **Express + MongoDB** | API Rest pour une todo liste avec gestion des connexions et des tokens
 
